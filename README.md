@@ -1,2 +1,3 @@
-# introduction-to-shadergraph
-Unity Learn Premium / Introduction to ShaderGraph - 2019.3
+# 概要
+以下トレーニング時に作成したプロジェクト
+https://learn.unity.com/tutorial/introduction-to-shadergraph-2019-3#
